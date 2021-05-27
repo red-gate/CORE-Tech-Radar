@@ -1,5 +1,5 @@
 ﻿name,ring,quadrant,isNew,description
 "RabbitMQ",maintain,"Infrastructure",true,"Message bus provider"
-"Zuora Billing",maintain,"Internal",true,"Our billing system"
-"Shopping Cart",explore,"External",true,"Our billing system"
+"Zuora Billing",maintain,"Third-Party",true,"Our billing system"
+"Shopping Cart",explore,"Customer",true,"Our billing system"
 "Sales Intranet",deprecate,"Internal",true,"Our billing system"
