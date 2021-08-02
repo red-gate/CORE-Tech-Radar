@@ -1,3 +1,4 @@
+"name", "ring", "quadrant", "isNew", "description"
 ﻿"RabbitMQ",maintain,"Infrastructure",false,"Message bus provider"
 "Shopping Cart",explore,"External",false,"Our billing system"
 "Sales Intranet",deprecate,"Internal",false,"Our billing system"
