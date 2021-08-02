@@ -4,11 +4,11 @@ The [Tech Radar](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githu
 
 If you are looking at integrating a new business tool or system, this Tech Radar gives you an idea of our current systems and how we see them within the Redgate eco-system. A separate, engineering-specific Tech Radar can be found [here](https://github.com/red-gate/Tech-Radar) - this focuses on languages, frameworks, tools and techniques for developing software at Redgate.
 
-The [Tech Radar](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fred-gate%2FCORE-Tech-Radar%2Fmain%2Fradar.csv) describes the technology landscape through a Redgate lens.  We capture technology in one of four categories:
-* Languages and Frameworks. Languages and frameworks that we use when building products.
-* Tools. These can be components, such as databases, software development tools, such as versions control systems; or more generic categories of tools, such as the notion of polyglot persistence.
-* Platforms. Things that we build software on top of such as .NET, SQL Server, Windows (etc).
-* Techniques. These include elements of a software development process, such as experience design; and structuring software, such as microservices.
+The [Tech Radar](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fred-gate%2FCORE-Tech-Radar%2Fmain%2Fradar.csv) describes the system landscape through a Redgate lens.  We capture systems in one of four categories:
+* Infrastructure - Internal systems used by CORE to maintain and run our services.
+* Third-Party - Systems that are maintained and hosted by outside vendors (e.g. Salesforce).
+* Customer - Redgate systems that are customer facing.
+* Internal - Redgate systems that are used by Redgaters outside CORE.
 
 Items on the Tech Radar should only be captured if the cost of change is high or the benefits of standardizing outweigh the drawbacks. Each item on the tech radar should be there for the the good of Redgate or our customers.
 

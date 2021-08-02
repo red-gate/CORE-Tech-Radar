@@ -1,4 +1,3 @@
-﻿name,ring,quadrant,isNew,description
 "RabbitMQ",maintain,"Infrastructure",true,"Message bus provider"
 "Zuora Billing",maintain,"Internal",true,"Our billing system"
 "Shopping Cart",explore,"External",true,"Our billing system"
@@ -6,3 +5,7 @@
 "SalesForce",maintain,"Third-Party",true,"Sales Enablement tool"
 "ZQuotes",maintain,"Third-Party",true,"Our quoting plugin for salesforce"
 "Marketo",maintain,"Third-Party",true,"Marketing enablement tool"
+"Zuora Billing",maintain,"Third-Party",true,"Our billing system"
+"Shopping Cart",explore,"Customer",true,"Our billing system"
+"Sales Intranet",deprecate,"Internal",true,"Our billing system"
+"Lessonly",integrate,"Internal",true,"Our billing system"
