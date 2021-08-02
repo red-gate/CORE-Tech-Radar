@@ -3,3 +3,6 @@
 "Zuora Billing",maintain,"Internal",true,"Our billing system"
 "Shopping Cart",explore,"External",true,"Our billing system"
 "Sales Intranet",deprecate,"Internal",true,"Our billing system"
+"SalesForce",maintain,"Third-Party",true,"Sales Enablement tool"
+"ZQuotes",maintain,"Third-Party",true,"Our quoting plugin for salesforce"
+"Marketo",maintain,"Third-Party",true,"Marketing enablement tool"
